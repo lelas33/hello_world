@@ -1,0 +1,4 @@
+[submodule "plugin_husqvarna"]
+	path = plugin_husqvarna
+	url = https://github.com/lelas33/plugin_husqvarna.git
+	branch = master
